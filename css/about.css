@@ -1,0 +1,12 @@
+.list {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  margin-top: 20vh;
+}
+
+.contents {
+  text-align: left;
+  padding-left: 30px;
+  font-size: 25px;
+}

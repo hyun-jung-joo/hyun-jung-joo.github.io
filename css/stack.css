@@ -1,0 +1,27 @@
+.list {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  margin-top: 150px;
+}
+
+.lists {
+  text-align: center;
+  display: block;
+  line-height: 1.5;
+  font-size: 23px;
+  color: antiquewhite;
+}
+
+.list_img {
+  width: 180px;
+  height: 180px;
+  display: block;
+  margin: 7vh 4vh;
+  margin-bottom: 30px;
+}
+
+.stack {
+  display: inline-flex;
+  margin-top: 60px;
+}
