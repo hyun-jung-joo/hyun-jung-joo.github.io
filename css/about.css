@@ -1,6 +1,9 @@
 .list {
+  /* 수평이 될 요소들을 display: flex; 적용 */
   display: flex;
+  /* 아이템들을 가운데로 정렬합니다. */
   justify-content: center;
+  /* 행이 2줄 이상 되었을 때의 수직축 방향 정렬을 결정하는 속성 - center */
   align-content: center;
   margin-top: 20vh;
 }
@@ -9,4 +12,8 @@
   text-align: left;
   padding-left: 30px;
   font-size: 25px;
+}
+
+.goal {
+  margin-top: 0px;
 }
